@@ -1,5 +1,13 @@
+
+João Vitor S. Amorim
+
+## Video de demonstração:
+
+https://drive.google.com/file/d/1vY5r-0KeuI26jgjdTum6DG_V8kUgDV3V/view?usp=sharing
+
 ## Descrição do projeto:
 Este projeto demonstra como controlar um display SSD1306 e LEDs RGB usando um joystick e o microcontrolador Raspberry Pi Pico. O código foi escrito em C e utiliza o Pico SDK para configurar módulos como GPIO, I2C e PWM.
+
 
 ## Funcionalidades
 
